@@ -18,3 +18,7 @@ div{
 p{
     font-style: italic;
 }
+
+.b{
+    text-align-last: center;
+}
