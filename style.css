@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    
+}
+.a{
+    text-decoration-line: underline;
+    text-shadow: 2px 2px white;
+    border-style:solid;
+    border-color:white;
+}
+
+
+div{
+    text-align-last: center;
+    border-style:double;
+    border-color:white;
+}
+p{
+    font-style: italic;
+}
